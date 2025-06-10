@@ -1,0 +1,27 @@
+Dependancies needed:
+
+glad
+GLFW
+glm
+gltext
+imgui
+jsonimport
+KHR
+lib
+OpenAL
+stb
+zip (miniz)
+
+dll->glfw3.dll
+dll->imgui.ini
+dll->libgcc_s_seh-1.dll
+dll->libOpenAL32.dll.a
+dll->libstdc++.a
+dll->libstdc++.dll.a
+dll->libstdc++-6.dll
+dll->libwinmm.a
+dll->libwinpthread-1.dll
+dll->OpenAl32.dll
+dll->OpenAL32.lib
+dll->sndfile.dll
+dll->sndfile.lib
