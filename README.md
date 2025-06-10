@@ -1,4 +1,4 @@
-# Basic OpenGL rendered game engine (Game Engine Version 3)
+# Basic OpenGL rendered game engine (Game Engine Version 5)
 
 An improvement to the last engine including fixing bugs to do with bsp textures and adding an IMGUI interface, replacing the older interface. Audio has now been implemented using OpenAL. Registers
 are upgraded and other bug fixes are introduced to the program. Dialogs have been introduced alongside improvements to lightmap textures and brightness. Textures and meshes correctly load using both 
